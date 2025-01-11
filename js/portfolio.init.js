@@ -1,5 +1,5 @@
 
-//Portfolio filter
+
 $(window).on('load', function() {
     var $container = $('.projects-wrapper');
     var $filter = $('#filter');
